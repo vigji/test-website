@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-We are a dynamic research group at the [Italian Institute of Technology](http://www.iit.it). Our aim is ...
+We are a dynamic research group at the [Istituto Italiano di Tecnologia](http://www.iit.it). Our aim is ...
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
@@ -59,10 +59,8 @@ We are located at IIT in Rovereto, Italy.
 
 
 We are grateful for funding from [IIT](www.iit.it) and the [Armenise-Harvard Foundation](https://armeniseharvard.org).
-Some grant images here
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Leiden.jpg" style="width: 210px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Nanofront.jpg" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NWO.jpg" style="width: 120px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 110px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_iit.png" style="width: 200px; float: left">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_armenise.png" style="width: 270px; float: right">
+
 </figure>

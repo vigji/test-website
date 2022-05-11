@@ -1,7 +1,7 @@
 ---
-title: "Iurilli Lab - Team"
+title: "Iurilli Lab - People"
 layout: gridlay
-excerpt: "Iurilli Lab: Team members"
+excerpt: "Iurilli Lab: People"
 sitemap: false
 permalink: /team/
 ---
@@ -193,4 +193,4 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 
 
 ## Administrative Support
-<a href="mailto:Rijsewijk@Physics.LeidenUniv.nl">Ellie van Rijsewijk</a> is helping us (and other groups) with administration.
+Someone ?? is helping us (and other groups) with administration.
